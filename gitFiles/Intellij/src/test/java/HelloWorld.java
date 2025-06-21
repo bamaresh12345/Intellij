@@ -5,7 +5,7 @@ public class HelloWorld {
 
     }
 
-    public static void From Master() {
+    public static void From Master111() {
 
         System.out.println("test This is a message from HelloWorld class.");
     }
