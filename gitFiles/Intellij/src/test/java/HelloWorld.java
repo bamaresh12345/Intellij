@@ -5,7 +5,7 @@ public class HelloWorld {
 
     }
 
-    public static void conflitteTest() {
+    public static void Masterchagnes() {
         System.out.println("test This is a message from HelloWorld class.");
     }
 }
