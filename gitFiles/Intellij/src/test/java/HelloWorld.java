@@ -5,7 +5,7 @@ public class HelloWorld {
 
     }
 
-    public static void conflittesting() {
+    public static void conflittestingagsasdg() {
         System.out.println("test This is a message from HelloWorld class.");
     }
 }
