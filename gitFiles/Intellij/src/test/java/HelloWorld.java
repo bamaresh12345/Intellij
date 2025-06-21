@@ -5,7 +5,7 @@ public class HelloWorld {
 
     }
 
-    public static void FrommyBranch() {
+    public static void From myBranchfromBothBranch() {
 
         System.out.println("test This is a message from HelloWorld class.");
     }
