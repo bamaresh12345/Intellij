@@ -14,4 +14,9 @@ public class HelloWorld {
 
         System.out.println("test This is a message from HelloWorld class 2.");
     }
+
+    public static void Frommtbranch3() {
+
+        System.out.println("test This is a message from HelloWorld class 2.");
+    }
 }
