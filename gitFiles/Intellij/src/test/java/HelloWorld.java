@@ -5,7 +5,7 @@ public class HelloWorld {
 
     }
 
-    public static void Frommtbranch() {
+    public static void From Master() {
 
         System.out.println("test This is a message from HelloWorld class.");
     }
