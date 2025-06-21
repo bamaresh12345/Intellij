@@ -5,8 +5,13 @@ public class HelloWorld {
 
     }
 
-    public static void FromMasterchagnes() {
+    public static void Frommtbranch() {
 
         System.out.println("test This is a message from HelloWorld class.");
+    }
+
+    public static void Frommtbranch2() {
+
+        System.out.println("test This is a message from HelloWorld class 2.");
     }
 }
