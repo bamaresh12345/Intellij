@@ -4,4 +4,8 @@ public class HelloWorld {
         System.out.println("Hello, World!");
 
     }
+
+    public static void printMessage2() {
+        System.out.println("This is a message from HelloWorld class.");
+    }
 }
