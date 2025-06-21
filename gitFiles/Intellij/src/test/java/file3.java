@@ -7,5 +7,10 @@ public class file3 {
         // Another comment to ensure the file is not empty
         // Yet another comment to test the file structure
         // Final comment to complete the file
+
+
+        for (int i = 0; i < 5; i++) {
+            System.out.println("This is line " + (i + 1));
+        }
     }
 }
