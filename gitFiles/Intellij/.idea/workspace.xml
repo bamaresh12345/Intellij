@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+
     <list default="true" id="2d4b4217-3c7b-4b36-8766-b51663159991" name="Changes" comment="hello">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HelloWorld.java" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,15 +51,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "Maven.Intellij [clean].executor": "Run",
-    "Maven.Intellij [test].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Feature11",
-    "kotlin-language-version-configured": "true"
-  }
+
 }]]></component>
   <component name="RunManager">
     <configuration name="Intellij [test]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
@@ -202,6 +195,7 @@
       <option name="project" value="LOCAL" />
       <updated>1750525758563</updated>
     </task>
+
     <task id="LOCAL-00013" summary="hello">
       <option name="closed" value="true" />
       <created>1750526676167</created>
@@ -210,20 +204,9 @@
       <option name="project" value="LOCAL" />
       <updated>1750526676167</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
-    <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit1" />
-    <MESSAGE value="commit2" />
-    <MESSAGE value="commit3" />
-    <MESSAGE value="commit333" />
-    <MESSAGE value="commit344" />
-    <MESSAGE value="file3 and 4" />
-    <MESSAGE value="file 3 added" />
-    <MESSAGE value="file 3 and 4 added" />
-    <MESSAGE value="file 2 and 1 added" />
-    <MESSAGE value="hello" />
-    <option name="LAST_COMMIT_MESSAGE" value="hello" />
+
+
+    <option name="LAST_COMMIT_MESSAGE" value="file 2 and 1 added" />
+
   </component>
 </project>
