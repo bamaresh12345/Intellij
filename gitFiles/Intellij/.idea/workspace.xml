@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d4b4217-3c7b-4b36-8766-b51663159991" name="Changes" comment="feature11">
+    <list default="true" id="2d4b4217-3c7b-4b36-8766-b51663159991" name="Changes" comment="asdfasdf">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -265,8 +266,43 @@
       <option name="project" value="LOCAL" />
       <updated>1750528927700</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="asdfasdf">
+      <option name="closed" value="true" />
+      <created>1750528999788</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1750528999788</updated>
+    </task>
+    <task id="LOCAL-00022" summary="asdfasdf">
+      <option name="closed" value="true" />
+      <created>1750529098233</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1750529098233</updated>
+    </task>
+    <task id="LOCAL-00023" summary="asdfasdf">
+      <option name="closed" value="true" />
+      <created>1750529210875</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1750529210875</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit1" />
@@ -279,6 +315,7 @@
     <MESSAGE value="file 3 and 4 added" />
     <MESSAGE value="file 2 and 1 added" />
     <MESSAGE value="feature11" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature11" />
+    <MESSAGE value="asdfasdf" />
+    <option name="LAST_COMMIT_MESSAGE" value="asdfasdf" />
   </component>
 </project>
