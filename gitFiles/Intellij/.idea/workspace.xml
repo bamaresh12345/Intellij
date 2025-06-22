@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d4b4217-3c7b-4b36-8766-b51663159991" name="Changes" comment="asdfasdf">
+    <list default="true" id="2d4b4217-3c7b-4b36-8766-b51663159991" name="Changes" comment="file 2 and 1 added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/file3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/file3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/file4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/file4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +95,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Maven.Intellij [test]" />
         <item itemvalue="Maven.Intellij [test]" />
       </list>
     </recent_temporary>
@@ -202,107 +205,8 @@
       <option name="project" value="LOCAL" />
       <updated>1750525758563</updated>
     </task>
-    <task id="LOCAL-00013" summary="feature11">
-      <option name="closed" value="true" />
-      <created>1750528168902</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1750528168902</updated>
-    </task>
-    <task id="LOCAL-00014" summary="feature11">
-      <option name="closed" value="true" />
-      <created>1750528239891</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1750528239891</updated>
-    </task>
-    <task id="LOCAL-00015" summary="feature11">
-      <option name="closed" value="true" />
-      <created>1750528344193</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1750528344193</updated>
-    </task>
-    <task id="LOCAL-00016" summary="feature11">
-      <option name="closed" value="true" />
-      <created>1750528401455</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1750528401455</updated>
-    </task>
-    <task id="LOCAL-00017" summary="feature11">
-      <option name="closed" value="true" />
-      <created>1750528444575</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1750528444575</updated>
-    </task>
-    <task id="LOCAL-00018" summary="feature11">
-      <option name="closed" value="true" />
-      <created>1750528500636</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1750528500636</updated>
-    </task>
-    <task id="LOCAL-00019" summary="feature11">
-      <option name="closed" value="true" />
-      <created>1750528855822</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1750528855822</updated>
-    </task>
-    <task id="LOCAL-00020" summary="feature11">
-      <option name="closed" value="true" />
-      <created>1750528927700</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1750528927700</updated>
-    </task>
-    <task id="LOCAL-00021" summary="asdfasdf">
-      <option name="closed" value="true" />
-      <created>1750528999788</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1750528999788</updated>
-    </task>
-    <task id="LOCAL-00022" summary="asdfasdf">
-      <option name="closed" value="true" />
-      <created>1750529098233</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1750529098233</updated>
-    </task>
-    <task id="LOCAL-00023" summary="asdfasdf">
-      <option name="closed" value="true" />
-      <created>1750529210875</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1750529210875</updated>
-    </task>
-    <option name="localTasksCounter" value="24" />
+    <option name="localTasksCounter" value="13" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit1" />
@@ -314,8 +218,8 @@
     <MESSAGE value="file 3 added" />
     <MESSAGE value="file 3 and 4 added" />
     <MESSAGE value="file 2 and 1 added" />
-    <MESSAGE value="feature11" />
-    <MESSAGE value="asdfasdf" />
-    <option name="LAST_COMMIT_MESSAGE" value="asdfasdf" />
+    <MESSAGE value="file5vbnmvbmn" />
+    <MESSAGE value="file5vbnmvbmn" />
+    <option name="LAST_COMMIT_MESSAGE" value="file5vbnmvbmn" />
   </component>
 </project>

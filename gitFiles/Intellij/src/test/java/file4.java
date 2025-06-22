@@ -11,8 +11,6 @@ public class file4 {
             System.out.println("This is line " + (i + 1));
         }
 
-        for (int i = 0; i < 5; i++) {
-            System.out.println("This is line " + (i + 1));
-        }
+        // Additional comments can be added here for clarity
     }
 }
